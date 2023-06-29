@@ -26,3 +26,4 @@ try it 2
 
 example
 example2
+example3
